@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\Modul7_Ghinan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E43B2468-DA36-458B-BB40-E3A39E332B6A}|Modul7_Ghinan\\Modul7_Ghinan.csproj|d:\\modul7_ghinan\\modul7_ghinan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E43B2468-DA36-458B-BB40-E3A39E332B6A}|Modul7_Ghinan\\Modul7_Ghinan.csproj|solutionrelative:modul7_ghinan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD7A98A4-5236-CF70-F6DA-B9EE9A73AF25}|Modul7_Ghinan\\Modul7_Ghinan.csproj|d:\\modul7_ghinan\\modul7_ghinan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7A98A4-5236-CF70-F6DA-B9EE9A73AF25}|Modul7_Ghinan\\Modul7_Ghinan.csproj|solutionrelative:modul7_ghinan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,8 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Modul7_Ghinan\\Modul7_Ghinan\\Program.cs",
               "RelativeDocumentMoniker": "Modul7_Ghinan\\Program.cs",
-              "ToolTip": "D:\\Modul7_Ghinan\\Modul7_Ghinan\\Program.cs",
-              "RelativeToolTip": "Modul7_Ghinan\\Program.cs",
+              "ToolTip": "D:\\Modul7_Ghinan\\Modul7_Ghinan\\Program.cs*",
+              "RelativeToolTip": "Modul7_Ghinan\\Program.cs*",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-18T06:47:46.106Z",

@@ -1,0 +1,9 @@
+{
+    "title": "test",
+    "director": "sigma",
+    "year": "2045",
+    "genre": "jungle",
+    "rating": 10,
+    "durationMinutes": 60,
+    "isWatched": true
+}

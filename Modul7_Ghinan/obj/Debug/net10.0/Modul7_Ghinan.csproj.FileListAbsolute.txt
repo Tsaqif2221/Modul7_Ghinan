@@ -1,0 +1,15 @@
+D:\Modul7_Ghinan\Modul7_Ghinan\obj\Debug\net10.0\Modul7_Ghinan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Modul7_Ghinan\Modul7_Ghinan\obj\Debug\net10.0\Modul7_Ghinan.AssemblyInfoInputs.cache
+D:\Modul7_Ghinan\Modul7_Ghinan\obj\Debug\net10.0\Modul7_Ghinan.AssemblyInfo.cs
+D:\Modul7_Ghinan\Modul7_Ghinan\obj\Debug\net10.0\Modul7_Ghinan.csproj.CoreCompileInputs.cache
+D:\Modul7_Ghinan\Modul7_Ghinan\obj\Debug\net10.0\Modul7_Ghinan.sourcelink.json
+D:\Modul7_Ghinan\Modul7_Ghinan\bin\Debug\net10.0\Modul7_Ghinan.exe
+D:\Modul7_Ghinan\Modul7_Ghinan\bin\Debug\net10.0\Modul7_Ghinan.deps.json
+D:\Modul7_Ghinan\Modul7_Ghinan\bin\Debug\net10.0\Modul7_Ghinan.runtimeconfig.json
+D:\Modul7_Ghinan\Modul7_Ghinan\bin\Debug\net10.0\Modul7_Ghinan.dll
+D:\Modul7_Ghinan\Modul7_Ghinan\bin\Debug\net10.0\Modul7_Ghinan.pdb
+D:\Modul7_Ghinan\Modul7_Ghinan\obj\Debug\net10.0\Modul7_Ghinan.dll
+D:\Modul7_Ghinan\Modul7_Ghinan\obj\Debug\net10.0\refint\Modul7_Ghinan.dll
+D:\Modul7_Ghinan\Modul7_Ghinan\obj\Debug\net10.0\Modul7_Ghinan.pdb
+D:\Modul7_Ghinan\Modul7_Ghinan\obj\Debug\net10.0\Modul7_Ghinan.genruntimeconfig.cache
+D:\Modul7_Ghinan\Modul7_Ghinan\obj\Debug\net10.0\ref\Modul7_Ghinan.dll

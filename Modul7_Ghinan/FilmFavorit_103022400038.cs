@@ -27,8 +27,6 @@ namespace Modul7_Ghinan
             Console.WriteLine($"durationMinutes : {data.durationMinutes}");
             Console.WriteLine($"isWatched : {data.isWatched}");
 
-
-
         }
 
     }

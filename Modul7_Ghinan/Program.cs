@@ -6,5 +6,7 @@ class Program_abiyu
     {
         var filmFavorit_103022400038 = new FilmFavorit_103022400038();
         filmFavorit_103022400038.ReadJSON();
+        var watchlist_103022400038 = new Watchlist_103022400038();
+        watchlist_103022400038.ReadJSON();
     }
 }

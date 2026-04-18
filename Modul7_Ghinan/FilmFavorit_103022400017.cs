@@ -8,12 +8,12 @@ namespace Modul7_Ghinan
 {
     internal class FilmFavorit_103022400017
     {
-        public String title { get; set; }
-        public String director { get; set; }
+        public string title { get; set; }
+        public string director { get; set; }
 
-        public String year { get; set; }
+        public string year { get; set; }
 
-        public String genre { get; set; }
+        public string genre { get; set; }
 
         public double rating { get; set; }
 

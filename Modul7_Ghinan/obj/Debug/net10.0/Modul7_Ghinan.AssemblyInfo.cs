@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Modul7_Ghinan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+653a4636cf68901393185f7dc4172b2ad4f9a2c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ca63240ee74a1722749a3331b56b4be443cb365")]
 [assembly: System.Reflection.AssemblyProductAttribute("Modul7_Ghinan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Modul7_Ghinan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

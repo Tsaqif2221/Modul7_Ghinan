@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "D:\\Modul7_Ghinan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E43B2468-DA36-458B-BB40-E3A39E332B6A}|Modul7_Ghinan\\Modul7_Ghinan.csproj|d:\\modul7_ghinan\\modul7_ghinan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E43B2468-DA36-458B-BB40-E3A39E332B6A}|Modul7_Ghinan\\Modul7_Ghinan.csproj|solutionrelative:modul7_ghinan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD7A98A4-5236-CF70-F6DA-B9EE9A73AF25}|Modul7_Ghinan\\Modul7_Ghinan.csproj|d:\\modul7_ghinan\\modul7_ghinan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7A98A4-5236-CF70-F6DA-B9EE9A73AF25}|Modul7_Ghinan\\Modul7_Ghinan.csproj|solutionrelative:modul7_ghinan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD7A98A4-5236-CF70-F6DA-B9EE9A73AF25}|Modul7_Ghinan\\Modul7_Ghinan.csproj|d:\\modul7_ghinan\\modul7_ghinan\\filmfavorit_103022400066.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD7A98A4-5236-CF70-F6DA-B9EE9A73AF25}|Modul7_Ghinan\\Modul7_Ghinan.csproj|solutionrelative:modul7_ghinan\\filmfavorit_103022400066.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Modul7_Ghinan\\Modul7_Ghinan\\bin\\Debug\\net10.0\\jurnal7_1_1030224000066.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modul7_Ghinan\\bin\\Debug\\net10.0\\jurnal7_1_1030224000066.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "jurnal7_1_1030224000066.json",
+              "DocumentMoniker": "D:\\Modul7_Ghinan\\Modul7_Ghinan\\bin\\Debug\\net10.0\\jurnal7_1_1030224000066.json",
+              "RelativeDocumentMoniker": "Modul7_Ghinan\\bin\\Debug\\net10.0\\jurnal7_1_1030224000066.json",
+              "ToolTip": "D:\\Modul7_Ghinan\\Modul7_Ghinan\\bin\\Debug\\net10.0\\jurnal7_1_1030224000066.json",
+              "RelativeToolTip": "Modul7_Ghinan\\bin\\Debug\\net10.0\\jurnal7_1_1030224000066.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T07:29:07.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilmFavorit_103022400066.cs",
+              "DocumentMoniker": "D:\\Modul7_Ghinan\\Modul7_Ghinan\\FilmFavorit_103022400066.cs",
+              "RelativeDocumentMoniker": "Modul7_Ghinan\\FilmFavorit_103022400066.cs",
+              "ToolTip": "D:\\Modul7_Ghinan\\Modul7_Ghinan\\FilmFavorit_103022400066.cs",
+              "RelativeToolTip": "Modul7_Ghinan\\FilmFavorit_103022400066.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T07:06:21.635Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +70,7 @@
               "RelativeDocumentMoniker": "Modul7_Ghinan\\Program.cs",
               "ToolTip": "D:\\Modul7_Ghinan\\Modul7_Ghinan\\Program.cs",
               "RelativeToolTip": "Modul7_Ghinan\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-18T06:47:46.106Z",
               "EditorCaption": ""

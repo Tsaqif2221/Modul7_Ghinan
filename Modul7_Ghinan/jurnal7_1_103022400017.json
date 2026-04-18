@@ -1,0 +1,9 @@
+{
+    "title": "Avengers",
+    "director": "John Kennedy",
+    "year": "2008",
+    "genre": "Action",
+    "rating": 10,
+    "durationMinutes": 120,
+    "isWatched":true 
+}

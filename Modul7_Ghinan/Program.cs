@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using Modul7_Ghinan;
+
+var mahasiswa_103022400017 = new FilmFavorit_103022400017();
+mahasiswa_103022400017.ReadJSON();

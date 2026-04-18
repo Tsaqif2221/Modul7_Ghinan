@@ -7,6 +7,8 @@ class Program
     {
         FilmFavorit_103022400066 Favfilm = new FilmFavorit_103022400066();
         Favfilm.ReadJSON();
+        Watchlist_103022400066 watchlist = new Watchlist_103022400066();
+        watchlist.ReadJson();
     }
 }
 

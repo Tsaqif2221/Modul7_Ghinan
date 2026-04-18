@@ -6,5 +6,8 @@ class Program_tsaqif
     {
         var Filmfavorit_103022430004 = new FilmFavorit_103022430004();
         Filmfavorit_103022430004.ReadJSON();
+        Console.WriteLine();
+        var watchlist_103022430004 = new Watchlist_103022430004();
+        watchlist_103022430004.ReadJSON();
     }
 }
